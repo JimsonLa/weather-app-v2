@@ -35,4 +35,4 @@ const API_KEY = "YOUR_API_KEY";
 ---
 
 ## 📸 Aperçu
-
+![Weather App](assets/screenshot.png)
